@@ -1,9 +1,9 @@
 [
     {
         "remote": "github",
-        "repository": "CyanogenMod/android_device_samsung_msm8960-common",
+        "repository": "LiquidSmooth-Devices/android_device_samsung_msm8960-common",
         "target_path": "device/samsung/msm8960-common",
-        "branch": "cm-12.1"
+        "branch": "5.1"
     },
     {
         "remote": "github",
