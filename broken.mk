@@ -4,7 +4,7 @@ $(call inherit-product, device/samsung/d2spr/full_d2spr.mk)
 $(call inherit-product, vendor/broken/config/nfc_enhanced.mk)
 
 # Inherit some common Broken stuff.
-$(call inherit-product, vendor/liquid/config/common_full_phone.mk)
+$(call inherit-product, vendor/broken/config/common_full_phone.mk)
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=d2spr \
