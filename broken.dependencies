@@ -1,38 +1,38 @@
 [
     {
         "remote": "github",
-        "repository": "LiquidSmooth-Devices/android_device_samsung_msm8960-common",
+        "repository": "CyanogenMod/android_device_samsung_msm8960-common",
         "target_path": "device/samsung/msm8960-common",
-        "branch": "5.1"
+        "branch": "cm-13.0"
     },
     {
         "remote": "github",
         "repository": "blkredstarV/device_samsung_d2-common",
         "target_path": "device/samsung/d2-common",
-        "branch": "lp5.1"
+        "branch": "m6.0"
     },
     {
         "remote": "github",
-        "repository": "SlimRoms/device_samsung_qcom-common",
+        "repository": "CyanogenMod/android_device_samsung_qcom-common",
         "target_path": "device/samsung/qcom-common",
-        "branch": "lp5.1"
+        "branch": "cm-13.0"
     },
     {
         "remote": "github",
         "repository": "CyanogenMod/android_hardware_samsung",
         "target_path": "hardware/samsung",
-        "branch": "cm-12.1"
+        "branch": "cm-13.0"
     },
     {
         "remote": "github",
-        "repository": "deadman96385/Deathly_Kernel_D2",
+        "repository": "CyanogenMod/android_kernel_samsung_d2",
         "target_path": "kernel/samsung/d2",
-        "branch": "5.1"
+        "branch": "cm-13.0"
     },
     {
         "remote": "github",
         "repository": "TheMuppets/proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
-        "branch": "cm-12.1"
+        "branch": "cm-13.0"
     }
 ]
