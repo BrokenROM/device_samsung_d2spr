@@ -7,7 +7,7 @@
     },
     {
         "remote": "github",
-        "repository": "blkredstarV/device_samsung_d2-common",
+        "repository": "BrokenRom/device_samsung_d2-common",
         "target_path": "device/samsung/d2-common",
         "branch": "m6.0"
     },
