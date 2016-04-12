@@ -9,7 +9,7 @@
         "remote": "github",
         "repository": "BrokenRom/device_samsung_d2-common",
         "target_path": "device/samsung/d2-common",
-        "branch": "m6.0"
+        "branch": "m6.0.1"
     },
     {
         "remote": "github",
