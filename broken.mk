@@ -12,6 +12,10 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT="samsung/d2spr/d2spr:5.0.2/KOT49H/L710VPUDNJ2:user/release-keys" \
     PRIVATE_BUILD_DESC="d2spr-user 5.0.2 KOT49H L710VPUDNJ2 release-keys"
 
+# Broken Device Maintainers
+PRODUCT_BUILD_PROP_OVERRIDES += \
+	DEVICE_MAINTAINERS="Roberto Correa (RCG)"
+
 PRODUCT_NAME := broken_d2spr
 PRODUCT_DEVICE := d2spr
 
